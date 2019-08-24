@@ -1,0 +1,3 @@
+displayName = Shoe Requiem
+author = Speedwagon-Chan
+version = 0.1
